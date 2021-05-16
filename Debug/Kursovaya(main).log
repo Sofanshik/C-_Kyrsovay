@@ -1,0 +1,16 @@
+﻿  University.cpp
+F:\Лабы\Kursovaya(main)\University.cpp(98,20): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Лабы\Kursovaya(main)\University.cpp(138,20): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Лабы\Kursovaya(main)\University.cpp(155,20): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Лабы\Kursovaya(main)\My_Vector.h(186,20): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Лабы\Kursovaya(main)\My_Vector.h(180): message : во время компиляции функции-члена класс шаблон "void Vector<Student>::pop_of_index(unsigned int)"
+F:\Лабы\Kursovaya(main)\University.cpp(107): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Student>::pop_of_index(unsigned int)"
+F:\Лабы\Kursovaya(main)\Сathedra.h(17): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Student>"
+F:\Лабы\Kursovaya(main)\My_Vector.h(189,14): warning C4018: >: несоответствие типов со знаком и без знака
+  Сathedra.cpp
+F:\Лабы\Kursovaya(main)\My_Vector.h(240,20): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Лабы\Kursovaya(main)\My_Vector.h(239): message : во время компиляции функции-члена класс шаблон "void Vector<Student>::show(void)"
+F:\Лабы\Kursovaya(main)\Сathedra.cpp(19): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Student>::show(void)"
+F:\Лабы\Kursovaya(main)\Сathedra.h(17): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Student>"
+  Создание кода...
+  Kursovaya(main).vcxproj -> F:\Лабы\Kursovaya(main)\Debug\Kursovaya(main).exe
